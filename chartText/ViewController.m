@@ -4,7 +4,7 @@
 //
 //  Created by 张君泽 on 16/7/27.
 //  Copyright © 2016年 CloudEducation. All rights reserved.
-//
+//  这样可以吗  git 上传东西
 
 #import "ViewController.h"
 #import "charts.h"

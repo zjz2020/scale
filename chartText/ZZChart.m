@@ -13,6 +13,7 @@
 #define LineWidth [UIScreen mainScreen].bounds.size.width - 100
 
 @interface ZZChart()
+//比例
 @property (nonatomic, assign)CGFloat xScale;
 @property (nonatomic, assign)CGFloat xWidth;
 @property (nonatomic, assign)CGFloat yScale;
